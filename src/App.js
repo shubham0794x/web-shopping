@@ -1,3 +1,4 @@
+import { Home } from "@material-ui/icons";
 import "./App.css";
 
 import Header from "./Header";
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
 
         <Header />
+        <Home />
     </div>
   );
 }
